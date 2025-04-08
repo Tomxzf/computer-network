@@ -1,5 +1,9 @@
 # computer-network
 
+## 课程
+
+【【网络】半小时看懂<计算机网络>】https://www.bilibili.com/video/BV124411k7uV?vd_source=7252f507b661da5c766c13355b3350ee
+
 ## ip地址
 IP地址 = 网络地址 + 主机地址(又称：主机号和网络号组成)
 
