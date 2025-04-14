@@ -80,5 +80,7 @@ A类地址来说，默认的子网掩码是255.0.0.0；对于B类地址来说默
 
 ![image](https://github.com/Tomxzf/computer-network/blob/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-14%20183950.png)
 
+### 三次握手与四次挥手
+【一条视频讲清楚TCP协议与UDP协议-什么是三次握手与四次挥手】https://www.bilibili.com/video/BV1kV411j7hA?vd_source=7252f507b661da5c766c13355b3350ee
 
 
