@@ -63,3 +63,7 @@ A类地址来说，默认的子网掩码是255.0.0.0；对于B类地址来说默
 
 ![image](https://github.com/Tomxzf/computer-network/blob/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-14%20173409.png)
 
+#### http常用状态码
+![image](https://github.com/Tomxzf/computer-network/blob/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-14%20173409.png)
+
+
