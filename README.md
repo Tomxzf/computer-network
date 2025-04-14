@@ -49,13 +49,14 @@ A类地址来说，默认的子网掩码是255.0.0.0；对于B类地址来说默
 
 ## 面试常问知识
 
+### 应用层
 
-### https与http的区别
+#### https与http的区别
 1. http的默认端口是80，http的默认端口是443
 2. HTTP 的 URL 前缀是 http://，HTTPS 的 URL 前缀是 https://
 3. http是无状态的，明文传输，安全性低，服务端无法判断客户端是用户还是攻击者，客户端也无法判断服务端是不是钓鱼网站。https是加密传输
 
-#### 对称加密与非对称加密
+##### 对称加密与非对称加密
 对称加密就是加密与解密用的同一把密钥
 ![image](https://github.com/Tomxzf/computer-network/blob/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-14%20142250.png)
 
@@ -63,7 +64,19 @@ A类地址来说，默认的子网掩码是255.0.0.0；对于B类地址来说默
 
 ![image](https://github.com/Tomxzf/computer-network/blob/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-14%20173409.png)
 
-#### http常用状态码
+##### http常用状态码
 ![image](https://github.com/Tomxzf/computer-network/blob/main/img/http-status-code.png)
+
+
+
+
+
+
+
+
+### 传输层
+
+#### tcp与udp的区别
+
 
 
